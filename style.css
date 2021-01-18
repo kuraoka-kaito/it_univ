@@ -1,0 +1,65 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(223, 171, 223);
+    background-image: url(https://www.pakutaso.com/shared/img/thumb/kumaki20960800657_TP_V.jpg);
+    background-size: 120%;
+    text-align: justify;
+    width: 500px;
+    height: 300px;
+    margin:50px
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    font-family: serif;
+    background-color: crimson;
+}
+
+nav{
+    margin:10px 5px;
+    color: rgba(10,130,165,.5);
+}
+
+ul{
+    list-style-type: ;
+}
+
+.otko{
+    margin:10px 5px;
+}
+
+.tenga{
+    margin:10px 5px;
+}
+
+.porn{
+    margin:10px 5px;
+}
+
+h4{
+    border-width:medium;
+    border-style:solid;
+    border-color: crimson;
+}
+
+table{
+    border-width: medium;
+    border-style:double;
+    border-color: black;
+    background-color: plum;
+}
+
+th{
+    border-width: thin;
+    border-style: solid;
+    border-bottom: solid;
+}
+
+td{
+    border-width: thin;
+    border-style: solid;
+    border-bottom: solid;
+}
